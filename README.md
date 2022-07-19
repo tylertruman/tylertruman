@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylertruman&theme=dark&show_icons=true)
 
 Here are some ideas to get you started:
