@@ -1,6 +1,6 @@
 ### Tyler Truman <a href="https://www.linkedin.com/in/tylertruman/"><img align="right" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Tyler Truman | LinkedIn" width="21px"/></a>
 
-Full Stack Software Development Student
+Full Stack Software Developer
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
