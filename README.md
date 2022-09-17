@@ -1,4 +1,4 @@
-### Tyler Truman <a href="https://www.linkedin.com/in/tylertruman/"><img align="right" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Tyler Truman | LinkedIn" width="21px"/></a>
+### Tyler Truman <a href="https://www.linkedin.com/in/tylertruman/"><img align="right" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Tyler Truman | LinkedIn" width="21px"/></a> <a href="https://www.instagram.com/tylertrumandev/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png?20200512141346" alt="Tyler Truman | Instagram" width="21px"/></a> <a href="https://twitter.com/TylerTrumanDev"><img align="right" src="https://img.icons8.com/color/344/twitter--v1.png" alt="Tyler Truman | Twitter" width="21px"/></a>
 
 Full Stack Software Developer - Boise, ID
 
